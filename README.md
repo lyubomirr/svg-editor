@@ -3,13 +3,13 @@ Simple SVG editor for university assignment.
 Works with circle, rectangle and line.
 
 ## Commands:
- - open <filename> (open example.svg) <br />
+ - open &lt;filename&gt; (open example.svg) <br />
  - close <br />
- - save <filename> (close example.svg) <br />
- - saveas <path> (saveas C:\new.svg) <br />
- - create <figure> <attributes> (create rectangle 1 1 200 300 green) <br />
+ - save &lt;filename&gt; (close example.svg) <br />
+ - saveas &lt;path&gt; (saveas C:\new.svg) <br />
+ - create &lt;figure&gt; &lt;attributes&gt; (create rectangle 1 1 200 300 green) <br />
  - print <br />
- - erase <figure-index> (erase 1) <br />
- - translate vertical=<value> horizontal=<value> <figure-index> (translate vertical=100 2) <br />
- - within <figure> <attributes> (within circle 6 6 100) <br />
+ - erase &lt;figure-index&gt; (erase 1) <br />
+ - translate vertical=&lt;value&gt; horizontal=&lt;value&gt; &lt;figure-index&gt; (translate vertical=100 2) <br />
+ - within &lt;figure&gt; &lt;attributes&gt; (within circle 6 6 100) <br />
  - exit
